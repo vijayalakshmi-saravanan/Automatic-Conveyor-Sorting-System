@@ -8,9 +8,15 @@ The system incorporates **latching control, sensor-based decision-making, and ti
 
 <img width="1920" height="1020" alt="Screenshot 2026-04-27 174349" src="https://github.com/user-attachments/assets/aeadd7b2-8026-4791-917e-f33fc3b6e353" />
 
+---
+
 <img width="1920" height="1020" alt="Screenshot 2026-04-27 174414" src="https://github.com/user-attachments/assets/36e53264-df21-46d7-bb78-f92c15dbbe6f" />
 
+---
+
 <img width="1920" height="1020" alt="Screenshot 2026-04-27 174427" src="https://github.com/user-attachments/assets/e6c4648b-d28e-4017-9f46-ac969c042684" />
+
+---
 
 <img width="1920" height="1020" alt="Screenshot 2026-04-27 174439" src="https://github.com/user-attachments/assets/5d5fc461-6ba8-41b2-8dbb-b69dd8728bd8" />
 
